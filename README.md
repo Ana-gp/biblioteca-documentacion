@@ -26,3 +26,9 @@ Sistema para gestionar préstamos de libros en una biblioteca pública.
 
 ## Licencia
 MIT
+
+## 📋 Estructura de Desglose del Trabajo (EDT/WBS)
+
+### Diagrama visual del proyecto
+
+![EDT Biblioteca Digital](docs/diagramas/EDT-Biblioteca-v1.0.jpg)
