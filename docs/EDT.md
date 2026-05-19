@@ -42,9 +42,9 @@
 
 ## 🔗 Enlaces
 
-- 📌 Miro Board: https://miro.com/app/board/XXXXX
+- 📌 Miro Board: https://miro.com/app/board/uXjVHRHtg30=/
 - 📌 Repositorio: GitHub
-- 📌 Imagen EDT: docs/diagramas/EDT-Biblioteca-v1.0.png
+- 📌 Imagen EDT: docs/diagramas/EDT-Biblioteca-v1.0.jpg
 
 ---
 
